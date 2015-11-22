@@ -23,11 +23,14 @@ public class App
         	System.out.println("two");
         	break;
 
-        case 1:
+        case 5:
         	System.out.println("three");
         	break;
 
         }
+        
+        
+        
         
     }
 }
