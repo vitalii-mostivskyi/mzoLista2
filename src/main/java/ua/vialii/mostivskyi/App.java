@@ -35,5 +35,11 @@ public class App
         	System.out.println(i);        	
         	i++;
         }
+        
+        
+        if(false) {
+        	System.out.println("I will be never here");
+        }
+        
     }
 }
